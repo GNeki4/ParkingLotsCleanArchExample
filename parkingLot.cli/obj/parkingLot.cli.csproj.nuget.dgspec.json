@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.cli\\parkingLot.cli.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.cli\\parkingLot.cli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.cli\\parkingLot.cli.csproj",
+        "projectName": "parkingLot.cli",
+        "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.cli\\parkingLot.cli.csproj",
+        "packagesPath": "C:\\Users\\gnekki4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.cli\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gnekki4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.infrastructure\\parkingLot.infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.infrastructure\\parkingLot.infrastructure.csproj"
+              },
+              "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.service\\parkingLot.service.csproj": {
+                "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.service\\parkingLot.service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\gnekki4\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\parkingLot.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\parkingLot.core.csproj",
+        "projectName": "parkingLot.core",
+        "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\parkingLot.core.csproj",
+        "packagesPath": "C:\\Users\\gnekki4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gnekki4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\gnekki4\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.infrastructure\\parkingLot.infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.infrastructure\\parkingLot.infrastructure.csproj",
+        "projectName": "parkingLot.infrastructure",
+        "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.infrastructure\\parkingLot.infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gnekki4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gnekki4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\parkingLot.core.csproj": {
+                "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\parkingLot.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\gnekki4\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.service\\parkingLot.service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.service\\parkingLot.service.csproj",
+        "projectName": "parkingLot.service",
+        "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.service\\parkingLot.service.csproj",
+        "packagesPath": "C:\\Users\\gnekki4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gnekki4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\parkingLot.core.csproj": {
+                "projectPath": "C:\\Users\\gnekki4\\Desktop\\clean-architecture-dotnet-master\\parkingLot.core\\parkingLot.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\gnekki4\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\parkingLot.infrastructure\parkingLot.infrastructure.csproj" />
+      <ProjectReference Include="..\parkingLot.service\parkingLot.service.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\bin\Debug\net6.0\instagram.service.deps.json
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\bin\Debug\net6.0\instagram.service.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\bin\Debug\net6.0\instagram.service.pdb
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\bin\Debug\net6.0\instagram.core.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\bin\Debug\net6.0\instagram.core.pdb
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.csproj.AssemblyReference.cache
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.AssemblyInfoInputs.cache
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.AssemblyInfo.cs
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.csproj.CoreCompileInputs.cache
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.csproj.CopyComplete
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\refint\instagram.service.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\instagram.service.pdb
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.service\obj\Debug\net6.0\ref\instagram.service.dll

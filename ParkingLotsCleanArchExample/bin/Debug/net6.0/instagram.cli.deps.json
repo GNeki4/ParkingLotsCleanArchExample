@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "instagram.cli/1.0.0": {
+        "dependencies": {
+          "instagram.infrastructure": "1.0.0",
+          "instagram.service": "1.0.0"
+        },
+        "runtime": {
+          "instagram.cli.dll": {}
+        }
+      },
+      "instagram.core/1.0.0": {
+        "runtime": {
+          "instagram.core.dll": {}
+        }
+      },
+      "instagram.infrastructure/1.0.0": {
+        "dependencies": {
+          "instagram.core": "1.0.0"
+        },
+        "runtime": {
+          "instagram.infrastructure.dll": {}
+        }
+      },
+      "instagram.service/1.0.0": {
+        "dependencies": {
+          "instagram.core": "1.0.0"
+        },
+        "runtime": {
+          "instagram.service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "instagram.cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "instagram.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "instagram.infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "instagram.service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

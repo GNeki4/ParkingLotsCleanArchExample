@@ -1,0 +1,15 @@
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\bin\Debug\net6.0\instagram.infrastructure.deps.json
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\bin\Debug\net6.0\instagram.infrastructure.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\bin\Debug\net6.0\instagram.infrastructure.pdb
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\bin\Debug\net6.0\instagram.core.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\bin\Debug\net6.0\instagram.core.pdb
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.csproj.AssemblyReference.cache
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.AssemblyInfoInputs.cache
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.AssemblyInfo.cs
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.csproj.CopyComplete
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\refint\instagram.infrastructure.dll
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\instagram.infrastructure.pdb
+C:\Users\gnekki4\Desktop\clean-architecture-dotnet-master\instagram.infrastructure\obj\Debug\net6.0\ref\instagram.infrastructure.dll
